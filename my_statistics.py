@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 from scipy import stats
-import scikit_posthocs as sp
 
 # Function that returns a summary of Spearman R correlation for selected variable with all other numeric variables
 def spearman_assess(data_frame, correlate_with):
