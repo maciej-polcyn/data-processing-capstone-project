@@ -6,4 +6,4 @@ Please review the files in the following order:
 3. visualizations
 4. report
 
-You can find custom functions used in the notebooks in my_statistics file, that is imported as a wherever needed.
+You can find custom functions used in the notebooks in my_statistics file, that is imported as a library wherever needed.
